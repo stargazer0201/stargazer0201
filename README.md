@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Darshan Rao 👋
 
-<!--
-**stargazer0201/stargazer0201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Diploma Student in Computer Science & Engineering
 
-Here are some ideas to get you started:
+🏆 AIR 13 – JEECUP K5 Lateral Entry
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+
+- C Programming
+- C++
+- HTML
+- CSS
+- JavaScript
+- Microsoft Excel
+- Microsoft Word
+- Data Handling
+
+## 🚀 Projects
+
+### Gaming Website
+Responsive gaming website built using HTML, CSS and JavaScript.
+
+### DonghuaStream Clone
+Frontend clone project created to understand streaming website architecture.
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Full Stack Web Development
+
+## 👨‍🏫 Experience
+
+Private Tutor (Nursery to Class 10 Students)
+
+## 📍 Location
+
+Prayagraj, Uttar Pradesh, India
