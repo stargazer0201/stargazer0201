@@ -7,7 +7,6 @@
 ## 💻 Skills
 
 - C Programming
-- C++
 - HTML
 - CSS
 - JavaScript
